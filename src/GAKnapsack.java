@@ -1,5 +1,4 @@
-/*	CS381 Project - GAKnapsack class
- * 	Summer 2014
+/*	GAKnapsack class
  * 	Lee, Juhyun
  */
 
