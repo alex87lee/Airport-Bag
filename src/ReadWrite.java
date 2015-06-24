@@ -1,5 +1,4 @@
-/*	CS381 Project - ReadWrite Class
- * 	Summer 2014
+/*	ReadWrite Class
  * 	Lee, Juhyun
  */
 
