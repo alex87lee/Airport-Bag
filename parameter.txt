@@ -1,0 +1,5 @@
+Population Size	|	100
+Max Generation	|	50
+CrossOver Rate	|	5
+Mutation Rate	|	3
+top % of Population allowed to mate	|	10
