@@ -1,5 +1,4 @@
-/*	CS381 Project - Individual Class
- * 	Summer 2014
+/*	Individual Class
  * 	Lee, Juhyun
  */
 
